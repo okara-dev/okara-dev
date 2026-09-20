@@ -1,10 +1,12 @@
 Hi, I'm Onur 👋
 Software Developer
 
-I build web applications, automation tools, CLI helpers, and Python bots.
+I build web/app applications, automation tools, CLI helpers, and Python bots.
 My goal is to build my own edge AI applications.
 
+
 🚀 Projects
+
 
 🌐 web
 Websites and web applications – from small browser experiments to
@@ -19,6 +21,7 @@ portfolio/ – my portfolio website
 ics-shop/ – shop project
 
 
+
 🛠️ programme
 Local programs, command-line tools, bots, and games.
 
@@ -31,11 +34,17 @@ games/ – custom games and experiments
 shell-befehle/ – PowerShell helpers and automation
 
 
+
 🧰 Tech Stack
 Frontend: HTML, CSS, JavaScript, React Native
+
 Backend: Node.js, Express, Python
+
 Database: PostgreSQL, Supabase
+
 Tools: Git, Docker, Docker Compose, PowerShell
+
+
 
 📫 Contact
 Email: karaonur310@gmail.com
