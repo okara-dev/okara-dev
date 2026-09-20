@@ -36,6 +36,7 @@ shell-befehle/ – PowerShell helpers and automation
 
 
 🧰 Tech Stack
+
 Frontend: HTML, CSS, JavaScript, React Native
 
 Backend: Node.js, Express, Python
