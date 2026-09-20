@@ -1,44 +1,44 @@
-# Hi, ich bin Onur 👋
+Hi, I'm Onur 👋
+Software Developer
 
-Software-Entwickler 
+I build web applications, automation tools, CLI helpers, and Python bots.
+My goal is to build my own edge AI applications.
 
-Ich entwickle Webanwendungen, Automatisierungs-Tools, CLI-Helfer und Python-Bots.
+🚀 Projects
 
----
+🌐 web
+Websites and web applications – from small browser experiments to
+applications with a Node.js backend, database, and Docker.
 
-## 🚀 Projekte
+macro/ – larger web apps 
 
-### 🌐 [web](https://github.com/okara-dev/web)
-Webseiten und Webanwendungen – von kleinen Browser-Experimenten bis zu
-Anwendungen mit Node.js-Backend, Datenbank und Docker.
+micro/ – compact mini apps 
 
-- **`macro/`** – größere Web-Apps (blumentagebuch, pulse, trueyou, voxify, wave)
-- **`micro/`** – kompakte Mini-Apps (todo, vault, stars, qry, pfand-o-mat, kurio, gluecksrad, cake, XI)
-- **`portfolio/`** – meine Portfolio-Website
-- **`ics-shop/`** – Shop-Projekt
+portfolio/ – my portfolio website
 
-### 🛠️ [programme](https://github.com/okara-dev/programme)
-Lokale Programme, Kommandozeilenwerkzeuge, Bots und Spiele.
+ics-shop/ – shop project
 
-- **`bots/`** – daily-compass-bot, motivation-bot, snack-bot, story-bot
-- **`cli/`** – code-analyzer, dependency-analyzer, docker-manager,
-  folder-organizer, folder-structure, jpg-wandler, json-formatter,
-  pdf-converter, vulnScan
-- **`games/`** – eigene Spiele und Experimente
-- **`shell-befehle/`** – PowerShell-Helfer und Automatisierung
 
----
+🛠️ programme
+Local programs, command-line tools, bots, and games.
 
-## 🧰 Tech Stack
+bots/ – Automated bots for exciting applications
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, Python
-- **Datenbank:** PostgreSQL
-- **Tools:** Git, Docker, Docker Compose, PowerShell
+cli/ – Automation tools for recurring use cases
 
----
+games/ – custom games and experiments
 
-## 📫 Kontakt
+shell-befehle/ – PowerShell helpers and automation
 
-- E-Mail: karaonur310@gmail.com
-- GitHub: [okara-dev](https://github.com/okara-dev)
+
+🧰 Tech Stack
+Frontend: HTML, CSS, JavaScript, React Native
+Backend: Node.js, Express, Python
+Database: PostgreSQL, Supabase
+Tools: Git, Docker, Docker Compose, PowerShell
+
+📫 Contact
+Email: karaonur310@gmail.com
+Portfolio: https://okara-dev.github.io/web/portfolio
+GitHub: okara-dev
+
